@@ -1,4 +1,4 @@
-This repository includes the removal and structural analysis attack against the state-of-the-art logic locking techniques, such as Anti-SAT, CASLock, SARLock, TTLock, SFLL, and CAC. Its details are given in its README file and in the following publication.
+This repository includes the removal and structural analysis attack against state-of-the-art logic locking techniques, such as Anti-SAT, CASLock, SARLock, TTLock, SFLL, and CAC. Its details are given in its README file and in the following publication.
 
 @inproceedings{aksoy24,
 	author={L. {Aksoy} and M. {Yasin} and S. {Pagliarini}},
