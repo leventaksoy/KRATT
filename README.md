@@ -5,5 +5,5 @@ This repository includes the removal and structural analysis attack against stat
 	booktitle={Design, Automation and Test in Europe Conference (DATE)}, 
 	title="{KRATT: QBF-Assisted Removal and Structural Analysis Attack Against Logic Locking}", 
 	year={2024},
-	pages={1-6}
+	note={accepted for publication}
 }
